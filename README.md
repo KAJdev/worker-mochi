@@ -1,5 +1,7 @@
 # worker-mochi
 
+[![RunPod](https://api.runpod.io/badge/rachfop/worker-mochi)](https://www.runpod.io/console/hub/rachfop/worker-mochi)
+
 > Generate videos with Mochi as an endpoint on RunPod
 
 ## Features
